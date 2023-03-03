@@ -1,0 +1,7 @@
+driver: "mssql" # or 'postgresql'
+server: "SERVER"
+database: "DB"
+schema: "dbo"
+port: 1433
+username: "ID"
+password: "PW"
